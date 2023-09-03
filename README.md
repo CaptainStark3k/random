@@ -1,2 +1,2 @@
 # random
-This is my first java program which is just a hello world program..:)
+This is a repository to document me learning JAVA
